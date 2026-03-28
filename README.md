@@ -2,7 +2,7 @@
 
 > A complete, production-ready Next.js boilerplate with TypeScript, Tailwind CSS, comprehensive network layer, state management, authentication, UI components, and testing setup.
 
-## 🚀 Features
+## 🚀 Features cc 
 
 ### Core Stack
 
@@ -498,5 +498,6 @@ MIT
 ---
 
 **Built for production applications** 🚀
-#   P F E _ F r o n t e n d  
+#   P F E _ F r o n t e n d 
+ 
  
